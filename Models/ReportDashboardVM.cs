@@ -1,4 +1,4 @@
-﻿namespace AakrityAcxiom.Models
+﻿namespace ShaluAcxiom.Models
 {
     public class ReportDashboardVM
     {

@@ -1,4 +1,4 @@
-﻿using AakrityAcxiom.Models;
+﻿using ShaluAcxiom.Models;
 
 public class DashboardVM
 {

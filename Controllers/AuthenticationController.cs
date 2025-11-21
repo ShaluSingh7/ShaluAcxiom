@@ -1,9 +1,9 @@
-﻿using AakrityAcxiom.Data;
-using AakrityAcxiom.Models;
+﻿using ShaluAcxiom.Data;
+using ShaluAcxiom.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 
-namespace AakrityAcxiom.Controllers
+namespace ShaluAcxiom.Controllers
 {
     public class AuthenticationController:Controller
     {

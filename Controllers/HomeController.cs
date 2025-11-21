@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using AakrityAcxiom.Models;
+using ShaluAcxiom.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace AakrityAcxiom.Controllers
+namespace ShaluAcxiom.Controllers
 {
     public class HomeController : Controller
     {

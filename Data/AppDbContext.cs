@@ -1,8 +1,8 @@
-﻿using AakrityAcxiom.Models;
+﻿using ShaluAcxiom.Models;
 //using AakrityAcxiom.ViewModels;
 using Microsoft.EntityFrameworkCore;
 
-namespace AakrityAcxiom.Data
+namespace ShaluAcxiom.Data
 {
     public class AppDbContext:DbContext
     {

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace AakrityAcxiom.Models
+namespace ShaluAcxiom.Models
 {
     public class Employee
     {

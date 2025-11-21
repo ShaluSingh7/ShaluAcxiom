@@ -1,4 +1,4 @@
-using AakrityAcxiom.Data;
+using ShaluAcxiom.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

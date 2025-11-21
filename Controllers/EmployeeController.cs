@@ -1,5 +1,5 @@
-﻿using AakrityAcxiom.Data;
-using AakrityAcxiom.Models;
+﻿using ShaluAcxiom.Data;
+using ShaluAcxiom.Models;
 using Microsoft.AspNetCore.Mvc;
 
 
