@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AakrityAcxiomCRM
 
 A fully functional CRM (Customer Relationship Management) System built using ASP.NET Core MVC and Entity Framework Core, designed to manage Customers, Employees, and Reports with a modern interactive dashboard and smooth database integration.
@@ -148,3 +149,6 @@ Option 1 (Terminal)
 dotnet run
 
 
+=======
+# ShaluAcxiom
+>>>>>>> bd9680288402e1b468b417b688d6c5aa86319206
